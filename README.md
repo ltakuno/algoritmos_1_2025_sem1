@@ -1,1 +1,1 @@
-# algoritmos 1 = sem1/2025
+# algoritmos 1 - sem1/2025
